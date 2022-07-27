@@ -1,0 +1,40 @@
+{
+
+    "data": [
+        {
+        "id":1,
+        "name":"Master",
+        "album": "Master of null",
+        "cover":"https://",
+        "artist": {
+            "name": "David Guetta",
+            "nickname": "David Guetta",
+            "nationality": "FR"
+        },
+        "duration":{
+            "start":0,
+            "end":333
+        },
+        "url": "https://localhost:3000/track.mp3"
+
+        },
+        {
+            "id":2,
+            "name":"La isla de Bergman",
+            "album": " Mia Hansen-Love",
+            "cover":"https://jenesaispop.com/2022/07/01/436902/mia-hansen-love-isla-bergman/",
+            "artist": {
+                "name": "Ingmar Bergman",
+                "nickname": "IngmarBerg",
+                "nationality": "GB"
+            },
+            "duration":{
+                "start":0,
+                "end":333
+            },
+            "url": "https://localhost:3000/track.mp3"
+    
+        }
+    ]
+
+}
